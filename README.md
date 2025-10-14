@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--
 **shahzaib4500/shahzaib4500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=1000&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22LLM+%7C+AI+%7C+LangChain+%7C+n8n+%7C+Python+%7C+Node+%22%2C%22color%22%3A%22%2330248f%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.3%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
+
+
+Intro
+I’m a Machine Learning Engineer with 8+ years of experience in Python application development. My expertise spans machine learning algorithms, and I’m skilled with libraries like LangChain, SciPy, and TensorFlow.
+
+I excel in data cleaning, preprocessing, and feature engineering, and have a proven track record of building and deploying machine learning models in production. As a team player with strong communication and problem-solving skills, I’m passionate about leveraging machine learning to tackle real-world challenges.
+
+Feel free to check out my projects and connect if you’d like to collaborate!
