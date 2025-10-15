@@ -23,3 +23,54 @@ I’m a Machine Learning Engineer with 8+ years of experience in Python applicat
 I excel in data cleaning, preprocessing, and feature engineering, and have a proven track record of building and deploying machine learning models in production. As a team player with strong communication and problem-solving skills, I’m passionate about leveraging machine learning to tackle real-world challenges.
 
 Feel free to check out my projects and connect if you’d like to collaborate!
+
+## My Skills
+
+### Master In
+
+[![My Skills](https://skillicons.dev/icons?i=ai)](Artifical-Intellignce)
+
+### Language
+
+[![My Skills](https://skillicons.dev/icons?i=python)](python)
+[![My Skills](https://skillicons.dev/icons?i=bash)](bash)
+[![My Skills](https://skillicons.dev/icons?i=javascript)](javascript)
+
+### FrameWorks
+
+[![My Skills](https://skillicons.dev/icons?i=django)](Django)
+[![My Skills](https://skillicons.dev/icons?i=flask)](flask)
+[![My Skills](https://skillicons.dev/icons?i=fastapi)](FastApi)
+[![My Skills](https://skillicons.dev/icons?i=express)](Express)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow)](Tensorflow)
+[![My Skills](https://skillicons.dev/icons?i=pytorch)](Pytorch)
+[![My Skills](https://skillicons.dev/icons?i=react)](react)
+[![My Skills](https://skillicons.dev/icons?i=next)](next)
+
+### Databases
+
+[![My Skills](https://skillicons.dev/icons?i=mysql)](MySql)
+[![My Skills](https://skillicons.dev/icons?i=postgresql)](Postgres)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](MongoDb)
+[![My Skills](https://skillicons.dev/icons?i=redis)](Redis)
+[![My Skills](https://skillicons.dev/icons?i=dynamodb)](DynamoDB)
+[![My Skills](https://skillicons.dev/icons?i=kafka)](Kafka)
+
+
+### Cloud Services
+
+[![My Skills](https://skillicons.dev/icons?i=aws)](AWS)
+[![My Skills](https://skillicons.dev/icons?i=azure)](Azure)
+[![My Skills](https://skillicons.dev/icons?i=googlecloud)](GoogleCloud)
+[![My Skills](https://skillicons.dev/icons?i=heroku)](Heroku)
+[![My Skills](https://skillicons.dev/icons?i=netlify)](Netlify)
+[![My Skills](https://skillicons.dev/icons?i=vercel)](Vercel)
+
+### Devops
+
+[![My Skills](https://skillicons.dev/icons?i=docker)](Docker)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes)](Kubernetes)
+
+### OS
+
+[![My Skills](https://skillicons.dev/icons?i=linux,osx)](https://skillicons.dev)
