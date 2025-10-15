@@ -1,26 +1,21 @@
-## Hi there 👋
-<!--
-**shahzaib4500/shahzaib4500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [![Typing SVG](https://typingsvg.vercel.app/api/svg?width=1000&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22LLM+%7C+AI+%7C+LangChain+%7C+n8n+%7C+Python+%7C+Node+%22%2C%22color%22%3A%22%2330248f%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.3%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
+## Intro
+Hey there! I'm a Full-Stack MERN Developer Exploring the Future of AI
 
-Intro
-I’m a Machine Learning Engineer with 8+ years of experience in Python application development. My expertise spans machine learning algorithms, and I’m skilled with libraries like LangChain, SciPy, and TensorFlow.
+I'm a full-stack developer working at the intersection of web development and artificial intelligence. I build intelligent applications using the MERN stack along with cutting-edge AI frameworks and tools like LangChain, LangGraph, Crew AI, and custom agent-based workflows.
 
-I excel in data cleaning, preprocessing, and feature engineering, and have a proven track record of building and deploying machine learning models in production. As a team player with strong communication and problem-solving skills, I’m passionate about leveraging machine learning to tackle real-world challenges.
+🔧 What I work with:
+
+AI Agents & Workflow Automation
+
+JavaScript, Python, and the MERN stack
+
+LangChain, LangGraph, Crew AI
+
+Building intelligent systems powered by LLMs
 
 Feel free to check out my projects and connect if you’d like to collaborate!
 
@@ -71,4 +66,11 @@ Feel free to check out my projects and connect if you’d like to collaborate!
 [![My Skills](https://skillicons.dev/icons?i=docker)](Docker)
 [![My Skills](https://skillicons.dev/icons?i=kubernetes)](Kubernetes)
 
+## Github Stats
+
 [![Shahzaib Farooq's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzaib4500)](https://github.com/shahzaib4500/github-readme-stats)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib4500&hide_progress=true)
+
