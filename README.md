@@ -71,6 +71,4 @@ Feel free to check out my projects and connect if you’d like to collaborate!
 [![My Skills](https://skillicons.dev/icons?i=docker)](Docker)
 [![My Skills](https://skillicons.dev/icons?i=kubernetes)](Kubernetes)
 
-### OS
-
-[![My Skills](https://skillicons.dev/icons?i=linux,osx)](https://skillicons.dev)
+[![Shahzaib Farooq's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzaib4500)](https://github.com/shahzaib4500/github-readme-stats)
